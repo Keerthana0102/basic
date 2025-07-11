@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 2px;
+    margin-top: 10px;
+}
+h1,li,ul{
+    display: inline;
+}
+ul{
+    color: brown;
+    margin-left:60%;
+}
+li:hover{
+    color:white ;
+}
+li{
+    cursor: pointer;
+}
